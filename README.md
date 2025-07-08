@@ -100,6 +100,17 @@ Below are 10 test images showing actual & predicted labels:
 </p>
 
 ---
+
+## 📦 Requirements
+```bash
+numpy
+matplotlib
+tensorflow
+scikit-learn
+```
+
+---
+
 ## ⚙️ How to Run
 
 ```bash
