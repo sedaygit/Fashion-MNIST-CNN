@@ -11,16 +11,17 @@ Part of a personal deep learning study project.
 - **Dataset:** [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
 - **Image size:** 28×28 pixels, grayscale
 - **Classes:** 
-0: T-shirt/top
-1: Trouser
-2: Pullover
-3: Dress
-4: Coat
-5: Sandal
-6: Shirt
-7: Sneaker
-8: Bag
-9: Ankle boot
+
+0: T-shirt/top   
+1: Trouser  
+2: Pullover  
+3: Dress  
+4: Coat  
+5: Sandal  
+6: Shirt  
+7: Sneaker  
+8: Bag  
+9: Ankle boot  
 
 ---
 
@@ -55,7 +56,8 @@ Part of a personal deep learning study project.
 
 After training, the model was evaluated with:
 
-#CNN_mnist Classification Report:
+# CNN_mnist Classification Report:
+
                precision    recall  f1-score   support
 
            0       0.87      0.83      0.85      1000
@@ -73,7 +75,7 @@ After training, the model was evaluated with:
    macro avg       0.90      0.90      0.90     10000
 weighted avg       0.90      0.90      0.90     10000
 
-#Confusion Matrix:
+# Confusion Matrix:
  [[831   0  16  23   2   0 123   0   5   0]
  [  1 978   0  14   2   0   4   0   1   0]
  [ 16   0 891  10  39   0  43   0   1   0]
