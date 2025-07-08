@@ -104,4 +104,9 @@ Below are 10 test images showing actual & predicted labels:
 
 ```bash
 pip install -r requirements.txt
-python Fashion-MNIST-CNN.ipynb```
+python Fashion-MNIST-CNN.ipynb
+```
+---
+## License
+This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0) — see the LICENSE file for details.
+Please credit Seda Yalçin when using or sharing this work.
