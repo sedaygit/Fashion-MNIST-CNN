@@ -96,7 +96,7 @@ Accuracy: 0.903
 Below are 10 test images showing actual & predicted labels:
 
 <p float="left">
-  <img src="sample-predictions.jpg" width="600"/>
+  <img src="sample-predictions.png" width="600"/>
 </p>
 
 ---
