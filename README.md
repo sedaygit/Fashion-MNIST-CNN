@@ -74,8 +74,9 @@ After training, the model was evaluated with:
    macro avg       0.90      0.90      0.90     10000
 weighted avg       0.90      0.90      0.90     10000
 ```
-```bash 
+
 ### Confusion Matrix:
+```bash 
  [[831   0  16  23   2   0 123   0   5   0]
  [  1 978   0  14   2   0   4   0   1   0]
  [ 16   0 891  10  39   0  43   0   1   0]
@@ -103,4 +104,4 @@ Below are 10 test images showing actual & predicted labels:
 
 ```bash
 pip install -r requirements.txt
-python model.py```
+python Fashion-MNIST-CNN.ipynb```
