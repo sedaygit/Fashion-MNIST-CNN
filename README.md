@@ -11,7 +11,6 @@ Part of a personal deep learning study project.
 - **Dataset:** [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
 - **Image size:** 28×28 pixels, grayscale
 - **Classes:** 
-
 0: T-shirt/top   
 1: Trouser  
 2: Pullover  
@@ -56,8 +55,8 @@ Part of a personal deep learning study project.
 
 After training, the model was evaluated with:
 
-# CNN_mnist Classification Report:
-
+### CNN_mnist Classification Report:
+'''bash
                precision    recall  f1-score   support
 
            0       0.87      0.83      0.85      1000
@@ -74,8 +73,9 @@ After training, the model was evaluated with:
     accuracy                           0.90     10000
    macro avg       0.90      0.90      0.90     10000
 weighted avg       0.90      0.90      0.90     10000
-
-# Confusion Matrix:
+'''
+'''bash
+### Confusion Matrix:
  [[831   0  16  23   2   0 123   0   5   0]
  [  1 978   0  14   2   0   4   0   1   0]
  [ 16   0 891  10  39   0  43   0   1   0]
@@ -87,7 +87,7 @@ weighted avg       0.90      0.90      0.90     10000
  [  2   1   6   4   5   1   6   3 972   0]
  [  1   0   0   0   0   4   0  24   0 971]]
 Accuracy: 0.903
-
+'''
 ---
 
 ## 🖼️ Sample Predictions
