@@ -10,7 +10,7 @@ Part of a personal deep learning study project.
 
 - **Dataset:** [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
 - **Image size:** 28×28 pixels, grayscale
-- **Classes:** 
+- **Classes:**  
 0: T-shirt/top   
 1: Trouser  
 2: Pullover  
