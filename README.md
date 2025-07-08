@@ -56,7 +56,7 @@ Part of a personal deep learning study project.
 After training, the model was evaluated with:
 
 ### CNN_mnist Classification Report:
-'''bash
+'''bash  
                precision    recall  f1-score   support
 
            0       0.87      0.83      0.85      1000
@@ -74,7 +74,7 @@ After training, the model was evaluated with:
    macro avg       0.90      0.90      0.90     10000
 weighted avg       0.90      0.90      0.90     10000
 '''
-'''bash
+'''bash  
 ### Confusion Matrix:
  [[831   0  16  23   2   0 123   0   5   0]
  [  1 978   0  14   2   0   4   0   1   0]
